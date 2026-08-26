@@ -36,7 +36,7 @@ module cla4(
   wire c4;
   wire t10, t20, t21, t30, t31, t32, t40, t41, t42, t43;
 
-  //pg
+  //pg pg pg
   xor #(2) (p0, a[0], b[0]);
   xor #(2) (p1, a[1], b[1]);
   xor #(2) (p2, a[2], b[2]);
