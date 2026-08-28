@@ -2,16 +2,12 @@
 
 
 
-#VERILOG LABS
+#VERILOG LABS 
 
 
-
-
-
-
-
-if you have stumbled upon this repo, g'day, spare 7 minutes
-⠀⠀⠀⠀⠀⠀⠀⣠⣤⣾⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀⠀⠀⠀
+if you have stumbled upon this repo, g'day, 7 minutes, is all i can spare
+```text
+⠀⠀⠀⠀⠀⠀⠀⣠⣤⣾⣿⣿⣿⣿⣿⣶⣄⡀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢠⠛⠋⠉⠛⠋⠛⠛⠙⠿⣿⣷⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠸⣀⣀⣀⣤⣤⣤⣤⣶⡆⣿⢿⡇⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⢿⣻⣟⣿⢷⡼⠿⢟⠀⠀⠀⠀⠀⠀
@@ -22,3 +18,4 @@ if you have stumbled upon this repo, g'day, spare 7 minutes
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠀⠀⠀⠀⣰⣿⣿⣿⣷⢀⡀⠀
 ⠀⠀⠀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⢏⣿⣿⣷
 ⣠⣴⣾⣿⣿⣿⡟⠁⠀⠀⠠⣤⣤⣤⢀⣤⣴⠂⠘⣿⠋⣾⣿⣿⣿
+```
