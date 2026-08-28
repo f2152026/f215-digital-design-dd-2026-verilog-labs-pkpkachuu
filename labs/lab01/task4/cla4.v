@@ -20,6 +20,7 @@
 //
 // TODO -- Step 3: sum bits
 //   sum[i] = p[i] ^ c[i]     (c0 = cin)
+// testing commits
 
 module cla4(
   input  [3:0] a,
